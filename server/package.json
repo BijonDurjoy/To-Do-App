@@ -1,7 +1,6 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "dependencies": {
     "abbrev": "^1.1.1",
@@ -128,5 +127,6 @@
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.0.1"
-  }
+  },
+  "description": ""
 }

@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function () {
+ document.addEventListener('DOMContentLoaded', function () {
     fetch('http://localhost:7070/getAll')
     .then(response => response.json())
     .then(data => console.log(data));
